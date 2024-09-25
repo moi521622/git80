@@ -1,4 +1,3 @@
-"new new" 
 "new !!!" 
 "cherry 1" 
 "cherry 2" 
