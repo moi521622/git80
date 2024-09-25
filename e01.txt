@@ -1,3 +1,9 @@
 "new new" 
 "new !!!" 
+<<<<<<< HEAD
 "cherry 1" 
+=======
+"cherry 1" 
+"cherry 2" 
+"cherry 10" 
+>>>>>>> b77f3c7 (cherry10 included)
