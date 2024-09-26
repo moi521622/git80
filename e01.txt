@@ -5,4 +5,18 @@
 "cherry 10" 
 =======
 "new new" 
+<<<<<<< HEAD
 "work tree2" 
+<<<<<<< HEAD
+=======
+
+aaaa
+
+=======
+"new !!!" 
+aaaaa
+remote!!!!!
+remote!!!!!
+remote!!!!!
+>>>>>>> feature
+>>>>>>> d9ebc64 (k)
