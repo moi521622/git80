@@ -6,6 +6,7 @@
 =======
 "new new" 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "work tree2" 
 <<<<<<< HEAD
 =======
@@ -13,10 +14,15 @@
 aaaa
 
 =======
+=======
+>>>>>>> feature
 "new !!!" 
 aaaaa
 remote!!!!!
 remote!!!!!
 remote!!!!!
+<<<<<<< HEAD
+>>>>>>> feature
+=======
 >>>>>>> feature
 >>>>>>> d9ebc64 (k)
