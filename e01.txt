@@ -2,4 +2,8 @@ a
 b
 c
 "dddd" 
+<<<<<<< Updated upstream
 "bbbbbb" 
+=======
+"bbbbbbcccc" 
+>>>>>>> Stashed changes
